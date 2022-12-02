@@ -1,0 +1,17 @@
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\bin\Debug\net5.0\Colpatria.Application.deps.json
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\bin\Debug\net5.0\Colpatria.Application.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\bin\Debug\net5.0\ref\Colpatria.Application.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\bin\Debug\net5.0\Colpatria.Application.pdb
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\bin\Debug\net5.0\Colpatria.Entities.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\bin\Debug\net5.0\Colpatria.Services.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\bin\Debug\net5.0\Colpatria.Services.pdb
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\bin\Debug\net5.0\Colpatria.Entities.pdb
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\Colpatria.Application.csproj.AssemblyReference.cache
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\Colpatria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\Colpatria.Application.AssemblyInfoInputs.cache
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\Colpatria.Application.AssemblyInfo.cs
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\Colpatria.Application.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\Colpatria.Application.csproj.CopyComplete
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\Colpatria.Application.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\ref\Colpatria.Application.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Application\obj\Debug\net5.0\Colpatria.Application.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colpatria.API", "Colpatria.API\Colpatria.API.csproj", "{098604B9-260B-4B5C-889E-0B6B823BFA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colpatria.Application", "Colpatria.Application\Colpatria.Application.csproj", "{69C5074A-523C-41E9-AB23-1E1ADE771559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colpatria.Services", "Colpatria.Services\Colpatria.Services.csproj", "{4AFE40C2-114B-4E82-A742-F5DBE92FDB04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colpatria.Entities", "Colpatria.Entities\Colpatria.Entities.csproj", "{E6541B0D-5EDE-4812-96E2-CB02E89C8E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colpatria.Security", "Colpatria.Security\Colpatria.Security.csproj", "{13BE16A7-CBA6-4E80-BDCF-47193DCCC107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098604B9-260B-4B5C-889E-0B6B823BFA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098604B9-260B-4B5C-889E-0B6B823BFA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098604B9-260B-4B5C-889E-0B6B823BFA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098604B9-260B-4B5C-889E-0B6B823BFA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C5074A-523C-41E9-AB23-1E1ADE771559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C5074A-523C-41E9-AB23-1E1ADE771559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C5074A-523C-41E9-AB23-1E1ADE771559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C5074A-523C-41E9-AB23-1E1ADE771559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AFE40C2-114B-4E82-A742-F5DBE92FDB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFE40C2-114B-4E82-A742-F5DBE92FDB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFE40C2-114B-4E82-A742-F5DBE92FDB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFE40C2-114B-4E82-A742-F5DBE92FDB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6541B0D-5EDE-4812-96E2-CB02E89C8E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6541B0D-5EDE-4812-96E2-CB02E89C8E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6541B0D-5EDE-4812-96E2-CB02E89C8E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6541B0D-5EDE-4812-96E2-CB02E89C8E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BE16A7-CBA6-4E80-BDCF-47193DCCC107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BE16A7-CBA6-4E80-BDCF-47193DCCC107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BE16A7-CBA6-4E80-BDCF-47193DCCC107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BE16A7-CBA6-4E80-BDCF-47193DCCC107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AF968ED-2A94-4730-9192-9182D4AF1AE9}
+	EndGlobalSection
+EndGlobal

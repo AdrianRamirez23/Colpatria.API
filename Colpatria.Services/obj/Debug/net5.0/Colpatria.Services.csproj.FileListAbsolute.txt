@@ -1,0 +1,15 @@
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\bin\Debug\net5.0\Colpatria.Services.deps.json
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\bin\Debug\net5.0\Colpatria.Services.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\bin\Debug\net5.0\ref\Colpatria.Services.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\bin\Debug\net5.0\Colpatria.Services.pdb
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\bin\Debug\net5.0\Colpatria.Entities.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\bin\Debug\net5.0\Colpatria.Entities.pdb
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\Colpatria.Services.csproj.AssemblyReference.cache
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\Colpatria.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\Colpatria.Services.AssemblyInfoInputs.cache
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\Colpatria.Services.AssemblyInfo.cs
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\Colpatria.Services.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\Colpatria.Services.csproj.CopyComplete
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\Colpatria.Services.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\ref\Colpatria.Services.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Services\obj\Debug\net5.0\Colpatria.Services.pdb

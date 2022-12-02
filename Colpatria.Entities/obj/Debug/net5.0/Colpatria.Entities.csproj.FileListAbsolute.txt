@@ -1,0 +1,12 @@
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\bin\Debug\net5.0\Colpatria.Entities.deps.json
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\bin\Debug\net5.0\Colpatria.Entities.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\bin\Debug\net5.0\ref\Colpatria.Entities.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\bin\Debug\net5.0\Colpatria.Entities.pdb
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\obj\Debug\net5.0\Colpatria.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\obj\Debug\net5.0\Colpatria.Entities.AssemblyInfoInputs.cache
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\obj\Debug\net5.0\Colpatria.Entities.AssemblyInfo.cs
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\obj\Debug\net5.0\Colpatria.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\obj\Debug\net5.0\Colpatria.Entities.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\obj\Debug\net5.0\ref\Colpatria.Entities.dll
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\obj\Debug\net5.0\Colpatria.Entities.pdb
+C:\Users\Adrian Ramirez\source\repos\Colpatria.API\Colpatria.Entities\obj\Debug\net5.0\Colpatria.Entities.csproj.AssemblyReference.cache
